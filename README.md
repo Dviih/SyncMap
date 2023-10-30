@@ -1,17 +1,17 @@
 # SyncMap
 
-### Sometimes it can happen to have a memory race error within Go while using maps so Synchronous is a solution!
+### Sometimes it can happen to have a memory race error within Go while using maps, so Synchronous is a solution!
 
 ## Install: `go get -u github.com/Dviih/SyncMap`
 
-## Usage:
+## Usage
 - `Make` - makes a new map.
 - `Get`  - gets a key in the map.
 - `Add`  - pushes a key to map, if the map is nil it will create.
 - `Push` - pushes a key to map.
 - `Del`  - deletes a key from a map.
 
-## Example:
+## Example
 
 ```go
 package main
