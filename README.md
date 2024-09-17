@@ -1,5 +1,7 @@
 # SyncMap
-
+---
+# This repository is on track to be archived, consider using `sync.Map`.
+---
 ### Sometimes it can happen to have a memory race error within Go while using maps, so Synchronous is a solution!
 
 ## Install: `go get -u github.com/Dviih/SyncMap`
