@@ -1,6 +1,6 @@
 # SyncMap
 ---
-# This repository is on track to be archived, consider using `sync.Map`.
+# This repository is on track to be archived, consider using `sync.Map` or [Map](https://github.com/Dviih/Map)!
 ---
 ### Sometimes it can happen to have a memory race error within Go while using maps, so Synchronous is a solution!
 
